@@ -1,0 +1,14 @@
+body{font: 14px/1.4em Arial, Helvetica, sans-serif;color:#333;background-color:#DDD;}
+
+.page{
+	max-width:1000px;padding:40px 40px 100px;margin:50px auto;min-height:400px;background-color:#FFF;
+	box-shadow:0 2px 4px rgba(0,0,0,.4);
+	text-align:center;
+}
+
+h1{font-size:24px;line-height:1.6em;margin-bottom:30px;}
+
+
+canvas{
+	display:block;margin:0 auto 30px;background-color:#FFF;border:solid 1px #BBB;
+}
